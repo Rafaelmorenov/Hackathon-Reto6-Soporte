@@ -1,3 +1,6 @@
+#Integrantes
+-Rafael Moreno
+- Cristian Gonzalez
 # Reto #6: Sistema de Soporte Técnico
 
 ## Patrón de Diseño
